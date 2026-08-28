@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irfan Ali</h1> <h3 align="center">Data Analyst | SQL • Python • Data Analysis • Visualization</h3> <p align="center"> <strong>📍 Jaipur, Rajasthan, India</strong> </p> <p align="center"> <a href="mailto:irfan.ds091@gmail.com">📧 Email</a> • <a href="tel:9982051559">📱 Contact</a> • <a href="https://linkedin.com/in/irfan-ali">💼 LinkedIn</a> </p>
+<h1 align="center">Hi 👋, I'm Irfan Ali</h1> <h3 align="center">Data Analyst | SQL • Python • Data Analysis • Visualization</h3> <p align="center"> <strong>📍 Jaipur, Rajasthan, India</strong> </p> <p align="center"> <a href="mailto:irfan.ds091@gmail.com">📧 Email</a> • <a href="tel:9982051559">📱 Contact</a> • <a href="https://linkedin.com/in/irfan-ali11">💼 LinkedIn</a> </p>
 👨‍💻 About Me
 
 I'm an aspiring Data Analyst from Jaipur, Rajasthan, passionate about transforming raw data into meaningful insights and supporting data-driven decision-making.
