@@ -93,7 +93,8 @@ Data Visualization
 Machine Learning
 Business Analytics
 📈 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=irfanali-tech&show_icons=true&hide_border=true&count_private=true" alt="Irfan Ali GitHub Stats"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanali-tech&show_icons=true&locale=en&layout=compact&hide_border=true" alt="Irfan Ali Top Languages"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanali-tech&hide_border=true" alt="Irfan Ali GitHub Streak"/> </p>
+
+
 🤝 Connect With Me
 <p align="center"> <a href="mailto:irfan.ds091@gmail.com"> <img src="https://img.shields.io/badge/Email-irfan.ds091%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="tel:9982051559"> <img src="https://img.shields.io/badge/Phone-9982051559-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/> </a> <a href="https://linkedin.com/in/irfan-ali" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Irfan%20Ali-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://instagram.com/irfan_bhati_57" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@irfan__bhati__57-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> </p> <p align="center"> 📍 Jaipur, Rajasthan, India &nbsp; | &nbsp; 📧 irfan.ds091@gmail.com &nbsp; | &nbsp; 📱 9982051559 </p>
 <p align="center"> <i>“Turning data into insights and insights into decisions.”</i> </p>
