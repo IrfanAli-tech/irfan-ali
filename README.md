@@ -62,6 +62,9 @@ Identify trends, patterns, and anomalies in data
 Create meaningful data visualizations
 Analyze business problems using data
 Communicate insights in a clear and simple manner
+
+
+
 📁 Featured Projects
 
 My GitHub repositories showcase practical work in:
